@@ -28,3 +28,5 @@
 | 튜플 | level 2    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%ED%8A%9C%ED%94%8C.md)     |
 | 카펫 | level 2    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EC%B9%B4%ED%8E%AB.md)     |
 | 로또의 최고 순위와 최저 순위 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.md)     |
+| 신규 아이디 추천 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.md)     |
+
