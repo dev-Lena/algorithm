@@ -34,4 +34,5 @@
 | 모의고사 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)     |
 | 실패율 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EC%8B%A4%ED%8C%A8%EC%9C%A8.md)     |
 | 3진법 뒤집기 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.md)     |
+| 약수의 개수와 덧셈 | level 1    | Swift     |[Answer](https://github.com/dev-Lena/algorithm/blob/master/Programmers/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.md)     |
 
